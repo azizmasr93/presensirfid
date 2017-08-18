@@ -171,7 +171,7 @@ window.location="../'.$_SESSION['level'].'?module=home";
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0
     </div>
-    <strong>Copyright &copy; <a href="http://siskom.undip.ac.id">Sistem Komputer Undip 2017</a>.</strong> All rights
+    <strong>Copyright &copy; Aziz Masruhan - 2017.</strong> All rights
     reserved.
   </footer>
 
